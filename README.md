@@ -1,4 +1,4 @@
-notacbh is a way to play games locally on pretty much any chrome book.
+notacbh is a way to play games locally on pretty much any chrome book. The code is literally just a BASH script running apt-get install commands but it's one command to run for non-Linux users!
 notacbh uses ChromeOS' Penguin which is basically Debian.
 through this we can just use it like Debian.
 notacbh aims to make installation of apps ez for non Linux users.
