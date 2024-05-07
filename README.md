@@ -7,10 +7,15 @@ maybe one day I'll work out how to make a .deb
 notacbh packages below
 
 notacbh (Essential) - chromium, dolphin
+
 notacbhb (Base) - chromium, dolphin, nsnake, gnome-2048
+
 notacbhp (Plus) - chromium, dolphin, nsnake, gnome
+
 notacbhd (Dev) - chromium, dolphin, firefox, vscode
+
 notacbha (All) - chromium, dolphin, vscode, firefox, gnome, nsnake
+
 nptacbhg (Games) - nsnake, gnome-2048, gnome-chess,
 
 these packages have already been essential to my life and others must experience it
