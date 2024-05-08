@@ -2,7 +2,7 @@
 
 echo “CHROMIE HACK INITIATING”
 echo “Hi this is Wija”
-echo “Basically this is just installing other people’s program for you because your brain (no offence) is kinda small.”
+echo “Basically this is just installing other people’s program for you because your brain no offence is kinda small.”
 echo “it should be installing now…”
 sudo apt-get update -y
 sudo apt-get install nsnake -y
